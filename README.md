@@ -7,7 +7,7 @@ This project aims to predict customer churn in the telecommunications industry u
 
 Here’s a snapshot of the customer churn prediction interface:
 
-![Churn Prediction Snapshot](images/churn_prediction.png)
+![image_alt](https://github.com/muhammedafsalpm/Customer-Churn-Prediction-in-Telecom-Using-ML/blob/4cf9a9bff9900e144a58867e14b58f817becea59/IMG-20241013-WA0008.jpg)
 
 Table of Contents
 
