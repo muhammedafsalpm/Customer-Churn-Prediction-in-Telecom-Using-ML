@@ -147,7 +147,7 @@ Deployment
 
 The final model was deployed using a web-based interface built with Streamlit. This interactive application allows users to input customer data and receive real-time churn predictions.
 
-#Conclusion
+# Conclusion
 
 Our analysis demonstrates that predictive modeling can effectively identify customers at risk of churning. The insights gained can help telecom providers develop retention strategies, optimize customer satisfaction, and ultimately reduce churn rates.
 
