@@ -41,15 +41,15 @@ Conclusion
 References
 
 
-Introduction
+## Introduction
 
 Customer churn, where customers discontinue their service, poses a significant financial challenge for telecom providers. Predicting which customers are likely to churn allows companies to implement targeted strategies to retain them, enhancing customer satisfaction and reducing revenue losses.
 
-Problem Definition
+## Problem Definition
 
 The objective of this project is to build a model that predicts the likelihood of a customer churning based on historical data. Using the predictive insights, telecom companies can improve customer retention strategies and minimize attrition.
 
-Objectives
+## Objectives
 
 1. Data Exploration: Understand feature distributions and relationships.
 
@@ -67,7 +67,7 @@ Objectives
 
 
 
-Dataset
+## Dataset
 
 Source: Kaggle - Telco Customer Churn
 
@@ -76,7 +76,7 @@ Description: 7,043 records with 21 features including demographics, account info
 Target Variable: Churn (indicating if a customer has churned or not).
 
 
-Methodology
+## Methodology
 
 Data Preprocessing
 
@@ -101,7 +101,7 @@ Feature Reduction: Used methods like Mutual Information, Lasso Regression, and C
 Synthetic Minority Over-sampling Technique (SMOTE): Applied SMOTE to handle class imbalance in the target variable.
 
 
-Machine Learning Models
+## Machine Learning Models
 
 The following machine learning models were trained and evaluated:
 
@@ -124,7 +124,7 @@ The following machine learning models were trained and evaluated:
 
 
 
-Model Evaluation
+## Model Evaluation
 
 Models were evaluated using the following metrics:
 
@@ -139,7 +139,7 @@ F1-Score
 
 Cross-validation was also applied to validate model performance across different data splits.
 
-Results
+## Results
 
 The Voting Classifier performed the best with an accuracy of 78.45% and balanced metrics for precision and recall, making it suitable for predicting customer churn.
 
@@ -147,11 +147,11 @@ Deployment
 
 The final model was deployed using a web-based interface built with Streamlit. This interactive application allows users to input customer data and receive real-time churn predictions.
 
-# Conclusion
+## Conclusion
 
 Our analysis demonstrates that predictive modeling can effectively identify customers at risk of churning. The insights gained can help telecom providers develop retention strategies, optimize customer satisfaction, and ultimately reduce churn rates.
 
-References
+## References
 
 1. Kaggle - Telco Customer Churn Dataset
 
