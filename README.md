@@ -2,6 +2,13 @@
 
 This project aims to predict customer churn in the telecommunications industry using machine learning techniques. By analyzing customer demographics, service usage patterns, contract details, and payment behaviors, we build predictive models that help identify customers at high risk of churning, enabling proactive retention strategies.
 
+
+## Model Prediction and Deployment
+
+Here’s a snapshot of the customer churn prediction interface:
+
+![Churn Prediction Snapshot](images/churn_prediction.png)
+
 Table of Contents
 
 Introduction
